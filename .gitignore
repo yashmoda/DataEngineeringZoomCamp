@@ -1,0 +1,6 @@
+*.csv
+*.csv.gz
+venv
+venv/*
+ny_taxi_host
+ny_taxi_host/*
