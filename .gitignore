@@ -4,3 +4,6 @@ venv
 venv/*
 ny_taxi_host
 ny_taxi_host/*
+.DS_Store
+.idea
+.idea/*
